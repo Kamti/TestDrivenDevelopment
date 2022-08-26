@@ -3902,11 +3902,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kamilla.toczek\\source\\repos\\TestDrivenDevelopment1\\TestDrivenDevelopment1.Test\\TestDrivenDevelopment1.Test.csproj",
+      "projectUniqueName": "C:\\Users\\kamilla.toczek\\source\\repos\\TestDrivenDevelopment\\TestDrivenDevelopment1.Test\\TestDrivenDevelopment1.Test.csproj",
       "projectName": "TestDrivenDevelopment1.Test",
-      "projectPath": "C:\\Users\\kamilla.toczek\\source\\repos\\TestDrivenDevelopment1\\TestDrivenDevelopment1.Test\\TestDrivenDevelopment1.Test.csproj",
+      "projectPath": "C:\\Users\\kamilla.toczek\\source\\repos\\TestDrivenDevelopment\\TestDrivenDevelopment1.Test\\TestDrivenDevelopment1.Test.csproj",
       "packagesPath": "C:\\Users\\kamilla.toczek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kamilla.toczek\\source\\repos\\TestDrivenDevelopment1\\TestDrivenDevelopment1.Test\\obj\\",
+      "outputPath": "C:\\Users\\kamilla.toczek\\source\\repos\\TestDrivenDevelopment\\TestDrivenDevelopment1.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kamilla.toczek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3923,8 +3923,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\kamilla.toczek\\source\\repos\\TestDrivenDevelopment1\\TestDrivenDevelopment1\\TestDrivenDevelopment1.csproj": {
-              "projectPath": "C:\\Users\\kamilla.toczek\\source\\repos\\TestDrivenDevelopment1\\TestDrivenDevelopment1\\TestDrivenDevelopment1.csproj"
+            "C:\\Users\\kamilla.toczek\\source\\repos\\TestDrivenDevelopment\\TestDrivenDevelopment1\\TestDrivenDevelopment1.csproj": {
+              "projectPath": "C:\\Users\\kamilla.toczek\\source\\repos\\TestDrivenDevelopment\\TestDrivenDevelopment1\\TestDrivenDevelopment1.csproj"
             }
           }
         }

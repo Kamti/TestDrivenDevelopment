@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FhzIRaauY1IxEe1Gqy/8EwL5oUk1tF3eF/ev7z8sapmWxYy8GQvc8jqtQV4oHfnprOuhnOfh00cYliDe83FIrQ==",
+  "dgSpecHash": "2d7lNRkk3Wab9k0RunWJmfhsIZw1xShHFF2uqDR81itww9wsNRQEdY1Fb/Xgc0F7fa5u8/47Rv36RjDfAQ0g5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kamilla.toczek\\source\\repos\\TestDrivenDevelopment1\\TestDrivenDevelopment1.Test\\TestDrivenDevelopment1.Test.csproj",
+  "projectFilePath": "C:\\Users\\kamilla.toczek\\source\\repos\\TestDrivenDevelopment\\TestDrivenDevelopment1.Test\\TestDrivenDevelopment1.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kamilla.toczek\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\kamilla.toczek\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kamilla.toczek\\source\\repos\\TestDrivenDevelopment1\\TestDrivenDevelopment1\\TestDrivenDevelopment1.csproj",
+      "projectUniqueName": "C:\\Users\\kamilla.toczek\\source\\repos\\TestDrivenDevelopment\\TestDrivenDevelopment1\\TestDrivenDevelopment1.csproj",
       "projectName": "TestDrivenDevelopment1",
-      "projectPath": "C:\\Users\\kamilla.toczek\\source\\repos\\TestDrivenDevelopment1\\TestDrivenDevelopment1\\TestDrivenDevelopment1.csproj",
+      "projectPath": "C:\\Users\\kamilla.toczek\\source\\repos\\TestDrivenDevelopment\\TestDrivenDevelopment1\\TestDrivenDevelopment1.csproj",
       "packagesPath": "C:\\Users\\kamilla.toczek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kamilla.toczek\\source\\repos\\TestDrivenDevelopment1\\TestDrivenDevelopment1\\obj\\",
+      "outputPath": "C:\\Users\\kamilla.toczek\\source\\repos\\TestDrivenDevelopment\\TestDrivenDevelopment1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kamilla.toczek\\AppData\\Roaming\\NuGet\\NuGet.Config",

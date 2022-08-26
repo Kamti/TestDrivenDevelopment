@@ -13,7 +13,7 @@ namespace TestDrivenDevelopment1.Test
         {
             var calc = new StringCalculator();
 
-            Assert.AreEqual(calc.Add(String.Empty), 0);
+            Assert.That(calc.Add(string.Empty),Is.EqualTo(0));
         }
 
         [Test]
