@@ -1,0 +1,12 @@
+C:\Users\kamilla.toczek\source\repos\TestDrivenDevelopment1\TestDrivenDevelopment1\bin\Debug\net6.0\TestDrivenDevelopment1.deps.json
+C:\Users\kamilla.toczek\source\repos\TestDrivenDevelopment1\TestDrivenDevelopment1\bin\Debug\net6.0\TestDrivenDevelopment1.dll
+C:\Users\kamilla.toczek\source\repos\TestDrivenDevelopment1\TestDrivenDevelopment1\bin\Debug\net6.0\TestDrivenDevelopment1.pdb
+C:\Users\kamilla.toczek\source\repos\TestDrivenDevelopment1\TestDrivenDevelopment1\obj\Debug\net6.0\TestDrivenDevelopment1.csproj.AssemblyReference.cache
+C:\Users\kamilla.toczek\source\repos\TestDrivenDevelopment1\TestDrivenDevelopment1\obj\Debug\net6.0\TestDrivenDevelopment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamilla.toczek\source\repos\TestDrivenDevelopment1\TestDrivenDevelopment1\obj\Debug\net6.0\TestDrivenDevelopment1.AssemblyInfoInputs.cache
+C:\Users\kamilla.toczek\source\repos\TestDrivenDevelopment1\TestDrivenDevelopment1\obj\Debug\net6.0\TestDrivenDevelopment1.AssemblyInfo.cs
+C:\Users\kamilla.toczek\source\repos\TestDrivenDevelopment1\TestDrivenDevelopment1\obj\Debug\net6.0\TestDrivenDevelopment1.csproj.CoreCompileInputs.cache
+C:\Users\kamilla.toczek\source\repos\TestDrivenDevelopment1\TestDrivenDevelopment1\obj\Debug\net6.0\TestDrivenDevelopment1.dll
+C:\Users\kamilla.toczek\source\repos\TestDrivenDevelopment1\TestDrivenDevelopment1\obj\Debug\net6.0\refint\TestDrivenDevelopment1.dll
+C:\Users\kamilla.toczek\source\repos\TestDrivenDevelopment1\TestDrivenDevelopment1\obj\Debug\net6.0\TestDrivenDevelopment1.pdb
+C:\Users\kamilla.toczek\source\repos\TestDrivenDevelopment1\TestDrivenDevelopment1\obj\Debug\net6.0\ref\TestDrivenDevelopment1.dll
