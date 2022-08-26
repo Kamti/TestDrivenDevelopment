@@ -21,7 +21,7 @@ namespace TestDrivenDevelopment1.Test
         {
             var calc = new StringCalculator();
 
-            Assert.AreEqual(calc.Add("1,2"), 3);
+            Assert.That(calc.Add("1,2"), Is.EqualTo(3));
         }
 
         [Test]
@@ -29,7 +29,7 @@ namespace TestDrivenDevelopment1.Test
         {
             var calc = new StringCalculator();
 
-            Assert.AreEqual(calc.Add("1,2,4"), 7);
+            Assert.That(calc.Add("1,2,4"), Is.EqualTo(7));
         }
 
         [Test]
@@ -37,7 +37,7 @@ namespace TestDrivenDevelopment1.Test
         {
             var calc = new StringCalculator();
 
-            Assert.AreEqual(calc.Add("1,2,4\n3"), 10);
+            Assert.That(calc.Add("1,2,4\n3"), Is.EqualTo(10));
         }
 
         [Test]
@@ -45,7 +45,7 @@ namespace TestDrivenDevelopment1.Test
         {
             var calc = new StringCalculator();
 
-            Assert.AreEqual(calc.Add("//;\n1;2"), 3);
+            Assert.That(calc.Add("//;\n1;2"), Is.EqualTo(3));
         }
 
         [Test]
@@ -64,7 +64,7 @@ namespace TestDrivenDevelopment1.Test
         {
             var calc = new StringCalculator();
 
-            Assert.AreEqual(calc.Add("//;\n1001;2"), 2);
+            Assert.That(calc.Add("//;\n1001;2"), Is.EqualTo(2));
         }
 
         [Test]
@@ -72,7 +72,7 @@ namespace TestDrivenDevelopment1.Test
         {
             var calc = new StringCalculator();
 
-            Assert.AreEqual(calc.Add("//[***]\n1***2***3"), 6);
+            Assert.That(calc.Add("//[***]\n1***2***3"), Is.EqualTo(6));
         }
 
         [Test]
@@ -80,7 +80,7 @@ namespace TestDrivenDevelopment1.Test
         {
             var calc = new StringCalculator();
 
-            Assert.AreEqual(calc.Add("//[***][%]\n1***2***3"), 6);
+            Assert.That(calc.Add("//[***][%]\n1***2***3"), Is.EqualTo(6));
         }
     }
 }
