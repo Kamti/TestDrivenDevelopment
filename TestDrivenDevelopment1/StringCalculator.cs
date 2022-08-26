@@ -31,7 +31,7 @@ namespace TestDrivenDevelopment1
             return parsedNumbers.Where(x => x < 1000).Sum();
         }
 
-        private IEnumerable<string> GetDelimiters(string firstLine)
+        private static IEnumerable<string> GetDelimiters(string firstLine)
         {
             if (!firstLine[..2].Equals("//")) yield return ",";
             else
